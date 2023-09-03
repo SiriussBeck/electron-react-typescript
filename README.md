@@ -1,6 +1,6 @@
 ## Electron + React + TypeScript
 
-An Electron boilerplate including TypeScript, React and ESLint. Inspired by [this boilerplate](https://github.com/diego3g/electron-typescript-react), but with the most current version of each lib.
+An Electron boilerplate including TypeScript, React, ESLint and Jest. Inspired by [this boilerplate](https://github.com/diego3g/electron-typescript-react), but with the most current version of each lib.
 
 ## Installation
 
@@ -31,6 +31,7 @@ yarn package
 - [Electron Forge](https://www.electronforge.io/)
 - [ReactJS](https://react.dev/learn)
 - [ESLint](https://eslint.org/docs/latest/)
+- [Jest](https://jestjs.io/pt-BR/docs/getting-started)
 
 ## License
 
