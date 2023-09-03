@@ -28,9 +28,8 @@ yarn package
 
 ## Documentations
 
-[Electron Forge](https://www.electronforge.io/)
-<br />
-[ReactJS](https://react.dev/learn)
+- [Electron Forge](https://www.electronforge.io/)
+- [ReactJS](https://react.dev/learn)
 
 ## License
 
