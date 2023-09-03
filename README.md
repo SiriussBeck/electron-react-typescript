@@ -30,6 +30,7 @@ yarn package
 
 - [Electron Forge](https://www.electronforge.io/)
 - [ReactJS](https://react.dev/learn)
+- [ESLint](https://eslint.org/docs/latest/)
 
 ## License
 
