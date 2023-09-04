@@ -1,6 +1,6 @@
 ## Electron + React + TypeScript
 
-An Electron boilerplate including TypeScript, React, ESLint and Jest. Inspired by [this boilerplate](https://github.com/diego3g/electron-typescript-react), but with the most current version of each lib.
+An Electron boilerplate including TypeScript, React, ESLint and Jest. Inspired by [this boilerplate](https://github.com/diego3g/electron-typescript-react), but with the most current version of each lib and jest changed to vitest.
 
 ## Installation
 
@@ -31,7 +31,9 @@ yarn package
 - [Electron Forge](https://www.electronforge.io/)
 - [ReactJS](https://react.dev/learn)
 - [ESLint](https://eslint.org/docs/latest/)
-- [Jest](https://jestjs.io/pt-BR/docs/getting-started)
+- [Prettier](https://prettier.io/docs/en/)
+- [Vitest](https://vitest.dev/guide/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## License
 
