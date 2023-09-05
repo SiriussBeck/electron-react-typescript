@@ -1,6 +1,6 @@
 ## Electron + React + TypeScript
 
-An Electron boilerplate including TypeScript, React, ESLint and Jest. Inspired by [this boilerplate](https://github.com/diego3g/electron-typescript-react), but with the most current version of each lib and jest changed to vitest.
+An Electron boilerplate including TypeScript, React, ESLint and Vitest. Inspired by [this boilerplate](https://github.com/diego3g/electron-typescript-react), but with the most current version of each lib and jest changed to vitest.
 
 ## Installation
 
